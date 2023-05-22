@@ -1,0 +1,34 @@
+Types of disablities:
+
+1. Visual
+2. Deaf and Hard of Hearing
+3. Cognitive
+4. Motor
+
+Vision Impaired
+1. Fully Impaired - Zero light perception
+2. Partially Impaired - Some light perception
+3. Color-blindness
+
+Deaf or Hard of hearing
+1. Captioning
+2. Open and Closed
+3. Transcription
+
+Cognitive and Learning Disabilities
+1. Functional Disability
+2. Clinical disability
+3. Memory
+4. Problem Solving
+5. Attention
+6. Reading, linguistic, and verbal comprehension
+
+Physical Disabilities
+1. Spinal Cord Injuries
+2. Lost or Damaged Limbs
+3. Diseases and Congenital Conditions
+4. Keyboard Browsing
+5. Eye Tracking
+6. Voice Recognition
+
+

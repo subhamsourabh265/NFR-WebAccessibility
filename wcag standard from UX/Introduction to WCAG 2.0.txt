@@ -1,0 +1,62 @@
+WCAG 2.0 Introduction
+
+1. World Wide Web Consortium
+2. WEB CONTENT ACCESSIBILITY GUIDELINES
+3. Principles, Guidelines, and Techniques
+
+Four Principles(P.O.U.R)
+1. Perceivable
+2. Operable
+3. Understandable
+4. Robust
+
+PERCEIVABLE
+1. Making your site or app Perceivable.
+2. Make sure that we provide appropriate content for all users regardless of disabilities or accessibilty challenges.
+3. Consise description in "alt" attribute.
+4. Avoiding color for color blindness, use text labels or patterns.
+5. Set appropriate contrast ratios
+6. 5:1 Ratio(e.g. black text on white background)
+7. Use online tools to check contrast
+8. Avoid Auto-Play
+
+OPERABLE
+1. Making your site Operable
+2. Do eveything on a Keyboard you can do with a Mouse
+3. Keyboard Navigation Goals
+4. Getting through navigation links and sections
+5. Getting into and out of search and form fields easily
+6. Navigation through Forms
+7. Avoiding Seizures
+8. Flashing or blinking content may cause seizures
+9. Warnings don't work because they often ignored or overlooked.
+10.Flashing or Blinking content is Bas UX and UI
+11.Time Restraints - Give your user plenty of time to complete tasks
+
+UNDERSTANDABLE
+1. Making your site understandable
+2. Makie sure our content is digestaible by everyone even those with accessibility concerns and especially those with cognitive disabilities
+3. Avoid these - Unusual words, Abbreviations, Jargon, Acronyms
+4. if unavoidable the define.
+5. Writing to a 9th grade reading level
+6. Use shorter paragraphs
+7. 2-3 sentence paragraphs.
+8. Each sentence about 15 words.
+9. Use Tools to check.
+10.Forms best practices.
+11.Make sure Page focus is always visible
+12.Clearly identify input errors and suggest fixes.
+13.Avoid Color only to indicate Errors.
+14.Clearly label elements and give instructions.
+15.Labels on top, Instructions on Bottom
+16.Provide help option
+
+ROBUST
+1. Making your site robust.
+2. Make sure our site or app works with all agents and assistive technology.
+3. Screen readers present information ina linear fashion.
+4. Content must make sense out of context.
+5. Find balance between real estate, aesthetics and descriptive usability.
+6. Do headers make sense out of context?
+7. Do the first couple of sentences in a paragraph make sense?
+8. Are we using familiar items for their intended purposes?
